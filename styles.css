@@ -12,3 +12,7 @@ body {
 .funParagraph {
     color: green;
 }
+
+.image {
+    height: 400px;
+}
